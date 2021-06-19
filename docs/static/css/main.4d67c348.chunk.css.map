@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAcA,KACE,YACF","file":"main.4d67c348.chunk.css","sourcesContent":["/* * {\n  font-family: Arial, Helvetica, sans-serif;\n}\n\nbody {\n  padding: 60px;\n}\n\ninput {\n  width: 100%;\n  font-size: 1.2rem;\n  color: gray;\n} */\n\nbody {\n  padding: 60px;\n}\n"]}
